@@ -4,6 +4,8 @@ The **Wiki** project is the second project of the CS50's Web Programming with Py
 
 ![Screenshot 1 of CS50W Project 1: Wiki by shamimhcp1](./screenshot/Screenshot_1.jpg)
 
+![Screenshot 2 of CS50W Project 1: Wiki by shamimhcp1](./screenshot/Screenshot_2.jpg)
+
 # Getting Started
 Download the distribution code from https://cdn.cs50.net/web/2020/spring/projects/1/wiki.zip and unzip it.
 
