@@ -2,6 +2,8 @@
 
 The **Wiki** project is the second project of the CS50's Web Programming with Python and JavaScript course, designed to help you understand the fundamental concepts of web development. This project serves as a simple web-based encyclopedia that allows users to create, edit, and view Markdown-formatted content.
 
+![Screenshot 1 of CS50W Project 1: Wiki by shamimhcp1](./screenshot/Screenshot_1.jpg)
+
 # Getting Started
 Download the distribution code from https://cdn.cs50.net/web/2020/spring/projects/1/wiki.zip and unzip it.
 
